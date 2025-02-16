@@ -29,6 +29,7 @@ nav a:focus {
 
 /* Step 4: Write selector/rule property to style the container */
 .container {
+     width: 100%;
      display: grid;
      grid-template-columns: 1fr 5fr 1fr;
      row-gap: 15px;
